@@ -59,12 +59,6 @@
     DTMediaMessage *mediaMessage = [[DTMediaMessage alloc] init];
     
     DTMediaImageObject *imageObject = [[DTMediaImageObject alloc] init];
-    
-//    UIImage *img = [UIImage imageNamed:@"open_icon"];
-//    NSData *imageData = UIImagePNGRepresentation(img);
-//    imageObject.imageData = imageData;
-
-    
     imageObject.imageData = [NSData data];
     imageObject.imageURL = @"https://img.alicdn.com/tps/TB1dagdIpXXXXc5XVXXXXXXXXXX.jpg";
     

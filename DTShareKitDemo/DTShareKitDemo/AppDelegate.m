@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // 注册AppId;
-    [DTOpenAPI registerApp:@"dingoaztklfsgnqxqcrebt"];
+    [DTOpenAPI registerApp:@"dingoak5hqhuvmpfhpnjvt"];
     return YES;
 }
 
